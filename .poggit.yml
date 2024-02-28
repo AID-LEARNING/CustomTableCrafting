@@ -1,0 +1,14 @@
+---
+branches:
+  - master
+projects:
+  CustomTableCrafting:
+    path: ""
+    icon: "icon.png"
+    lint:
+      phpstan: false
+    libs:
+      - src: AID-LEARNING/libExtraPath/libExtraPathConfig
+        version: ^1.0.1
+        branch: pm5
+...

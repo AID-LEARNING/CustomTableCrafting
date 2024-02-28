@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "tags": [
+      "custom_table_crafting"
+    ],
+    "key": {
+      "@": {
+        "item": "minecraft:stick"
+      },
+      "#": {
+        "tag": "minecraft:logs"
+      }
+    },
+    "pattern": [
+      "#",
+      "#",
+      "@"
+    ],
+    "result": [
+      {
+        "item": "minecraft:wooden_sword"
+      }
+    ]
+  }
+}

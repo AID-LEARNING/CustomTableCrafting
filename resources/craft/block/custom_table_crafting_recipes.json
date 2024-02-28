@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "tags": [
+      "crafting_table"
+    ],
+    "key": {
+      "#": {
+        "tag": "minecraft:logs"
+      }
+    },
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "result": [
+      {
+        "item": "symply:custom_table"
+      }
+    ]
+  }
+}

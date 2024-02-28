@@ -1,0 +1,8 @@
+name: CustomTableCrafting
+api: 5.0.0
+version: 0.0.1
+main: SenseiTarzan\CustomTableCrafting\Main
+description: "Custom Table Crafting Exemple"
+load: STARTUP
+depend:
+  - "SymplyPlugin"
